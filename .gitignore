@@ -70,6 +70,7 @@ data/raw/
 data/confidential/
 *.hyper
 *.tde
+.json
 
 # Large binary packages (optional – uncomment if you prefer Git LFS)
 # *.twbx
