@@ -1,0 +1,121 @@
+﻿Operator ID;Operator Name;Department;Education Level;Tenure (Years);DLP Score;PQS Score
+OPR-001;Operator 1;Fiberline - Digester;Diploma (D3);4;92;88
+OPR-002;Operator 2;Recovery Boiler;High School;12;68;95
+OPR-003;Operator 3;Fiberline - Bleaching;Bachelor (S1);2;95;72
+OPR-004;Operator 4;Paper Machine;Diploma (D3);8;88;91
+OPR-005;Operator 5;Power Plant;High School;15;62;65
+OPR-006;Operator 6;Fiberline - Digester;Bachelor (S1);1;98;96
+OPR-007;Operator 7;Recovery Boiler;Diploma (D3);5;75;92
+OPR-008;Operator 8;Paper Machine;High School;20;91;68
+OPR-009;Operator 9;Fiberline - Bleaching;Bachelor (S1);3;65;70
+OPR-010;Operator 10;Power Plant;Diploma (D3);7;89;86
+OPR-011;Operator 11;Fiberline - Digester;High School;10;94;95
+OPR-012;Operator 12;Recovery Boiler;Bachelor (S1);2;72;98
+OPR-013;Operator 13;Fiberline - Bleaching;Diploma (D3);6;96;75
+OPR-014;Operator 14;Paper Machine;High School;14;85;89
+OPR-015;Operator 15;Power Plant;Bachelor (S1);1;78;61
+OPR-016;Operator 16;Fiberline - Digester;Diploma (D3);9;91;92
+OPR-017;Operator 17;Recovery Boiler;High School;18;66;94
+OPR-018;Operator 18;Paper Machine;Bachelor (S1);4;99;66
+OPR-019;Operator 19;Fiberline - Bleaching;Diploma (D3);5;70;75
+OPR-020;Operator 20;Power Plant;High School;11;87;88
+OPR-021;Operator 21;Fiberline - Digester;Bachelor (S1);2;90;90
+OPR-022;Operator 22;Recovery Boiler;Diploma (D3);6;69;96
+OPR-023;Operator 23;Fiberline - Bleaching;High School;16;92;79
+OPR-024;Operator 24;Paper Machine;Bachelor (S1);3;86;85
+OPR-025;Operator 25;Power Plant;Diploma (D3);8;61;68
+OPR-026;Operator 26;Fiberline - Digester;High School;13;95;94
+OPR-027;Operator 27;Recovery Boiler;Bachelor (S1);1;74;91
+OPR-028;Operator 28;Paper Machine;Diploma (D3);7;97;71
+OPR-029;Operator 29;Fiberline - Bleaching;High School;19;63;64
+OPR-030;Operator 30;Power Plant;Bachelor (S1);4;88;93
+OPR-031;Operator 31;Fiberline - Digester;Diploma (D3);5;93;87
+OPR-032;Operator 32;Recovery Boiler;High School;10;77;99
+OPR-033;Operator 33;Fiberline - Bleaching;Bachelor (S1);2;94;65
+OPR-034;Operator 34;Paper Machine;Diploma (D3);9;89;90
+OPR-035;Operator 35;Power Plant;High School;15;68;76
+OPR-036;Operator 36;Fiberline - Digester;Bachelor (S1);3;96;98
+OPR-037;Operator 37;Recovery Boiler;Diploma (D3);6;71;93
+OPR-038;Operator 38;Paper Machine;High School;11;98;78
+OPR-039;Operator 39;Fiberline - Bleaching;Bachelor (S1);1;76;72
+OPR-040;Operator 40;Power Plant;Diploma (D3);8;85;86
+OPR-041;Operator 41;Fiberline - Digester;High School;17;91;95
+OPR-042;Operator 42;Recovery Boiler;Bachelor (S1);2;65;97
+OPR-043;Operator 43;Fiberline - Bleaching;Diploma (D3);4;95;69
+OPR-044;Operator 44;Paper Machine;High School;12;90;88
+OPR-045;Operator 45;Power Plant;Bachelor (S1);5;70;61
+OPR-046;Operator 46;Fiberline - Digester;Diploma (D3);7;87;91
+OPR-047;Operator 47;Recovery Boiler;High School;14;76;92
+OPR-048;Operator 48;Paper Machine;Bachelor (S1);1;93;73
+OPR-049;Operator 49;Fiberline - Bleaching;Diploma (D3);9;64;66
+OPR-050;Operator 50;Power Plant;High School;18;92;94
+OPR-051;Operator 51;Fiberline - Digester;Bachelor (S1);3;98;89
+OPR-052;Operator 52;Recovery Boiler;Diploma (D3);5;67;95
+OPR-053;Operator 53;Fiberline - Bleaching;High School;10;91;66
+OPR-054;Operator 54;Paper Machine;Bachelor (S1);2;86;92
+OPR-055;Operator 55;Power Plant;Diploma (D3);6;72;78
+OPR-056;Operator 56;Fiberline - Digester;High School;15;95;97
+OPR-057;Operator 57;Recovery Boiler;Bachelor (S1);4;73;90
+OPR-058;Operator 58;Paper Machine;Diploma (D3);8;96;74
+OPR-059;Operator 59;Fiberline - Bleaching;High School;13;69;63
+OPR-060;Operator 60;Power Plant;Bachelor (S1);1;88;85
+OPR-061;Operator 61;Fiberline - Digester;Diploma (D3);7;99;99
+OPR-062;Operator 62;Recovery Boiler;High School;19;75;98
+OPR-063;Operator 63;Fiberline - Bleaching;Bachelor (S1);2;90;67
+OPR-064;Operator 64;Paper Machine;Diploma (D3);5;94;88
+OPR-065;Operator 65;Power Plant;High School;11;61;70
+OPR-066;Operator 66;Fiberline - Digester;Bachelor (S1);4;87;93
+OPR-067;Operator 67;Recovery Boiler;Diploma (D3);9;70;94
+OPR-068;Operator 68;Paper Machine;High School;16;97;76
+OPR-069;Operator 69;Fiberline - Bleaching;Bachelor (S1);3;78;75
+OPR-070;Operator 70;Power Plant;Diploma (D3);6;85;90
+OPR-071;Operator 71;Fiberline - Digester;High School;14;92;96
+OPR-072;Operator 72;Recovery Boiler;Bachelor (S1);1;68;91
+OPR-073;Operator 73;Fiberline - Bleaching;Diploma (D3);8;95;71
+OPR-074;Operator 74;Paper Machine;High School;12;89;86
+OPR-075;Operator 75;Power Plant;Bachelor (S1);2;64;68
+OPR-076;Operator 76;Fiberline - Digester;Diploma (D3);5;96;94
+OPR-077;Operator 77;Recovery Boiler;High School;17;74;96
+OPR-078;Operator 78;Paper Machine;Bachelor (S1);3;91;69
+OPR-079;Operator 79;Fiberline - Bleaching;Diploma (D3);7;71;77
+OPR-080;Operator 80;Power Plant;High School;10;86;85
+OPR-081;Operator 81;Fiberline - Digester;Bachelor (S1);4;98;91
+OPR-082;Operator 82;Recovery Boiler;Diploma (D3);6;66;99
+OPR-083;Operator 83;Fiberline - Bleaching;High School;15;93;74
+OPR-084;Operator 84;Paper Machine;Bachelor (S1);2;88;89
+OPR-085;Operator 85;Power Plant;Diploma (D3);9;67;62
+OPR-086;Operator 86;Fiberline - Digester;High School;18;94;97
+OPR-087;Operator 87;Recovery Boiler;Bachelor (S1);1;76;93
+OPR-088;Operator 88;Paper Machine;Diploma (D3);5;99;72
+OPR-089;Operator 89;Fiberline - Bleaching;High School;13;62;69
+OPR-090;Operator 90;Power Plant;Bachelor (S1);3;87;86
+OPR-091;Operator 91;Fiberline - Digester;Diploma (D3);8;95;90
+OPR-092;Operator 92;Recovery Boiler;High School;11;69;97
+OPR-093;Operator 93;Fiberline - Bleaching;Bachelor (S1);4;90;68
+OPR-094;Operator 94;Paper Machine;Diploma (D3);6;92;94
+OPR-095;Operator 95;Power Plant;High School;16;75;71
+OPR-096;Operator 96;Fiberline - Digester;Bachelor (S1);2;97;95
+OPR-097;Operator 97;Recovery Boiler;Diploma (D3);7;72;92
+OPR-098;Operator 98;Paper Machine;High School;14;94;77
+OPR-099;Operator 99;Fiberline - Bleaching;Bachelor (S1);1;65;65
+OPR-100;Operator 100;Power Plant;Diploma (D3);5;89;88
+OPR-101;Operator 101;Fiberline - Digester;High School;19;91;92
+OPR-102;Operator 102;Recovery Boiler;Bachelor (S1);3;77;95
+OPR-103;Operator 103;Fiberline - Bleaching;Diploma (D3);8;98;66
+OPR-104;Operator 104;Paper Machine;High School;12;86;85
+OPR-105;Operator 105;Power Plant;Bachelor (S1);4;70;74
+OPR-106;Operator 106;Fiberline - Digester;Diploma (D3);6;93;96
+OPR-107;Operator 107;Recovery Boiler;High School;15;68;91
+OPR-108;Operator 108;Paper Machine;Bachelor (S1);2;95;73
+OPR-109;Operator 109;Fiberline - Bleaching;Diploma (D3);7;63;61
+OPR-110;Operator 110;Power Plant;High School;10;88;89
+OPR-111;Operator 111;Fiberline - Digester;Bachelor (S1);1;99;94
+OPR-112;Operator 112;Recovery Boiler;Diploma (D3);5;71;98
+OPR-113;Operator 113;Fiberline - Bleaching;High School;17;90;70
+OPR-114;Operator 114;Paper Machine;Bachelor (S1);3;94;87
+OPR-115;Operator 115;Power Plant;Diploma (D3);9;78;76
+OPR-116;Operator 116;Fiberline - Digester;High School;13;87;90
+OPR-117;Operator 117;Recovery Boiler;Bachelor (S1);2;75;93
+OPR-118;Operator 118;Paper Machine;Diploma (D3);6;96;65
+OPR-119;Operator 119;Fiberline - Bleaching;High School;11;66;69
+OPR-120;Operator 120;Power Plant;Bachelor (S1);4;92;95
